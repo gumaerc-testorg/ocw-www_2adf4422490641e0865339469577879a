@@ -1,5 +1,7 @@
 ---
-image: null
+image_object:
+  image: null
+  image_alt: Chalk Radio
 link:
   link_title: Listen Now
   link_url: https://chalk-radio.simplecast.com/
